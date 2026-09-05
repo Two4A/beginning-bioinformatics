@@ -1,7 +1,7 @@
 # AI Use Log
 - Tool/model & version: Gemini 2.5 Flash integrated within Google Colab.
   
-- What I asked for: Prompts where the Bioinformatics_Module03 asked for AI usage. Additional assistance regarding some errors in code or clarification regarding new code topics.
+- What I asked for: Prompts where the Bioinformatics_Module03 asked for AI usage. Additional assistance regarding some errors in code or clarification regarding new code topics. Assistance for coding in Rosalind.
   
 - Snippet of prompt(s):
 - "Why does printing my_list[1] in TASK P7.1 output "World" instead of "Hello"?"
