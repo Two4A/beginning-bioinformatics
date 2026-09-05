@@ -1,2 +1,1 @@
-# beginning-bioinformatics
-Beginning bioinformatics course code
+Daniel Earwood + 1001910309 + BIOL-5340-001
