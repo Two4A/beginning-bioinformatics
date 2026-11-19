@@ -8,7 +8,7 @@
 - "How do I insert a new item at index 1 in the list?"
 - "Could you help me find a single-cell prostate cancer dataset, at least one for training and some that can be withheld as a test dataset? Provide a link to these."
 
-- Snippet out output(s):
+- Snippet of output(s):
 1. How to find the CELLxGENE Prostate Datasets
 Go to your web browser and search for "CZ CELLxGENE Discover".
 Once on the homepage, click on the "Datasets" or "Collections" tab.
